@@ -3,7 +3,7 @@
     
 - 👀 I’m interested in **cybersecurity**
 - 🏫 I’m currently study at **Information Engineering Gadjah Mada University**
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **C++**
 - 📫 you can reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-firdaus-isyfi-8a5809288) &nbsp;
 </div>
